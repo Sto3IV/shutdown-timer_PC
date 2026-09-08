@@ -13,5 +13,7 @@ A simple, lightweight batch script for Windows to schedule a PC shutdown or rebo
 2. Extract the files and double-click `shutdown-timer.bat`.
 3. Follow the on-screen instructions.
 
+> **Note regarding the Icon (`close.ico`)**: Using the included icon file is entirely optional (e.g., if you create a shortcut to the `.bat` file), but it is highly recommended as it perfectly fits the visual style of this application!
+
 ## License
 This project is licensed under the CC0 1.0 Universal License - see the [LICENSE](LICENSE) file for details.
